@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/91952/Downloads/sampleApp/pote_hole_detection-v1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pote_hole_detection-v1"
+	}
+}
